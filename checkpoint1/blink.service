@@ -1,0 +1,10 @@
+[Unit]
+Description=Blinker
+After=multi-user.target
+
+[Service]
+ExecStart=/home/sel/0790/pratica5/blink.sh
+
+[Install]
+WantedBy=multi-user.target
+
