@@ -1,0 +1,11 @@
+[Unit]
+Description=Blinker
+After=multi-user.target
+
+[Service]
+ExecStart=/home/sel/0790/pratica5/pisca_led.py
+ExecStop=/home/sel/0790/pratica5/pisca_led_stop.py
+
+[Install]
+WantedBy=multi-user.target
+
