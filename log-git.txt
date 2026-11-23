@@ -1,0 +1,17 @@
+commit 4ead02d05bfabae0cfdde3451c234ae5bcf86b68
+Author: PedroBrandi <pedro.brandi@usp.br>
+Date:   Mon Nov 23 17:21:24 2026 -0300
+
+    Exemplo de pisca LED com Python e serviço system adicionado.
+
+commit 93c5517ddd67975de8d4e36727cfe35b34890321
+Author: PedroBrandi <pedro.brandi@usp.br>
+Date:   Mon Nov 23 17:17:55 2026 -0300
+
+    Exemplo de pisca LED com script Bash e serviço systemd adicionado.
+
+commit f90582df5b3e22f6b60855acb145cc07aa5bade1
+Author: PedroBrandi <pedro.brandi@usp.br>
+Date:   Mon Nov 23 16:39:59 2026 -0300
+
+    Initial commit
