@@ -150,7 +150,7 @@ WantedBy=multi-user.target
 
 * **Boot da Raspberry Pi:** a GPU executa o primeiro código, carrega os bootloaders da partição `boot` do cartão microSD, depois o kernel Linux, e por fim o systemd inicia os serviços da partição `rootfs`.
 * **systemd, systemctl, unit file, init system.**
-* **Git:** `git config`, `git clone`, `git add`, `git commit`, `git push`, `git pull`, `git status`, `git log`, `git rm`, `git reset`, `git checkout` e `.gitignore`.
+* **Git:** `git config`, `git clone`, `git add`, `git commit`, `git push`, `git pull`, `git status`, `git log`.
 * **GitHub:** repositório remoto, *Personal Access Token* para autenticação no `git push` e documentação em `README.md`.
 
 ## Imagens
